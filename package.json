@@ -18,6 +18,7 @@
   "homepage": "https://github.com/VO-I/web2025-4#readme",
   "description": "",
   "dependencies": {
-    "commander": "^13.1.0"
+    "commander": "^13.1.0",
+    "xmlbuilder2": "^3.1.1"
   }
 }
