@@ -16,5 +16,8 @@
     "url": "https://github.com/VO-I/web2025-4/issues"
   },
   "homepage": "https://github.com/VO-I/web2025-4#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "commander": "^13.1.0"
+  }
 }
